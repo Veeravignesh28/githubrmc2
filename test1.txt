@@ -1,0 +1,1 @@
+TO check the branch using git checkout (branchname) it is the command
